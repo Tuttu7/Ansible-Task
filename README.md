@@ -84,5 +84,3 @@ tuttu@techtraining1:~$  ansible -i inventory.ini 192.168.10.107 -m stat -a "path
 
 
 
-
-2. Ansible playbook to install httpd using variables and start and enable services with the same variable tags on your target machine.
